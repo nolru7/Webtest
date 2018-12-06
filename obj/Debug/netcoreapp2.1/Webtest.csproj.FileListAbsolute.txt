@@ -1,0 +1,14 @@
+C:\test\test\web2\Webtest\bin\Debug\netcoreapp2.1\Webtest.deps.json
+C:\test\test\web2\Webtest\bin\Debug\netcoreapp2.1\Webtest.runtimeconfig.json
+C:\test\test\web2\Webtest\bin\Debug\netcoreapp2.1\Webtest.runtimeconfig.dev.json
+C:\test\test\web2\Webtest\bin\Debug\netcoreapp2.1\Webtest.dll
+C:\test\test\web2\Webtest\bin\Debug\netcoreapp2.1\Webtest.pdb
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.csprojAssemblyReference.cache
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.csproj.CoreCompileInputs.cache
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.RazorAssemblyInfo.cache
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.RazorAssemblyInfo.cs
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.AssemblyInfoInputs.cache
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.AssemblyInfo.cs
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.RazorTargetAssemblyInfo.cache
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.dll
+C:\test\test\web2\Webtest\obj\Debug\netcoreapp2.1\Webtest.pdb
